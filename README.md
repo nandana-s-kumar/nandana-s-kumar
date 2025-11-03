@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandana-s-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nandana-s-kumar" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Software Testing**
 
 - 📫 How to reach me **nandanaskumar144055@gmail.com**
 
